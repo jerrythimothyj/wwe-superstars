@@ -29,7 +29,7 @@ exports.lambdaHandler = async (event, context) => {
             'body': JSON.stringify(data.Items)
         }
     } catch (err) {
-        console.log(err);
+        console.log('err=', err);
         return err;
     }
 
