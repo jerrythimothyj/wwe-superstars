@@ -1,4 +1,7 @@
+[![Build Status](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiSTVKZS9YZnlQK21KcVZLTFNRZWJ2KzRmSnY5YW1ZdWtOV3FaV2dkcWYySUp1THI0OWltUGJhTFF5aDdVOWlQUndZWExpUHh3VXdubzhmcEpvbDhXZUtBPSIsIml2UGFyYW1ldGVyU3BlYyI6IjQvN0R1UG9HVWlyTXYxUzYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiSTVKZS9YZnlQK21KcVZLTFNRZWJ2KzRmSnY5YW1ZdWtOV3FaV2dkcWYySUp1THI0OWltUGJhTFF5aDdVOWlQUndZWExpUHh3VXdubzhmcEpvbDhXZUtBPSIsIml2UGFyYW1ldGVyU3BlYyI6IjQvN0R1UG9HVWlyTXYxUzYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D)
+<br />
 # wwe-superstars1
+
 
 This project contains source code and supporting files for a serverless application that you can deploy with the SAM CLI. It includes the following files and folders.
 
